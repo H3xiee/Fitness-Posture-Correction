@@ -64,7 +64,7 @@ Fitness-Posture-Correction/
 Clone the repository
 
 ```bash
-git clone https://github.com/krishikachellappandiyan-cpu/Fitness-Posture-Correction.git
+git clone git clone https://github.com/H3xiee/Fitness-Posture-Correction.git
 ```
 
 Move into the project
